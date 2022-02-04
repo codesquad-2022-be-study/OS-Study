@@ -1,7 +1,7 @@
 # 운영체제 스터디
 
 ## 공부내용 공유장소
-운영체제 스터디 링크 : https://github.com/jinan159/OS-Study/milestone/1
+운영체제 스터디 링크 : https://github.com/codesquad-2022-be-study/OS-Study/milestone/1
 
 ## 참여자
 `Jay`, `Jun`, `루이`, `Ader`, `산토리`, `Dave`, `로니`, `케이`
