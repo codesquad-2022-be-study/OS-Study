@@ -1,9 +1,12 @@
 # 운영체제 스터디
 
 ## 공부내용 공유장소
-운영체제 스터디 링크 : https://github.com/codesquad-2022-be-study/OS-Study/milestone/1
+
+- 운영체제 스터디 링크 : https://github.com/codesquad-2022-be-study/OS-Study/milestone/1
+- 주차별 학습정리 모음 : https://github.com/codesquad-2022-be-study/OS-Study/blob/main/STUDY.md
 
 ## 참여자
+
 `Jay`, `Jun`, `루이`, `Ader`, `산토리`, `Dave`, `로니`, `케이`
 
 ## 발표 순서
@@ -32,6 +35,7 @@
 	- 공부하며 질문 : `코드스쿼드 슬랙` 활용하기!
 
 ## 규칙(벌금)
+
 - 지각(5분) : 500원
 - 결석(30분) : 2,000원
 - 스터디 준비 못함 
