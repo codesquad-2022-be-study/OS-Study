@@ -56,7 +56,6 @@
     <li>Jay : </li>
     <li>Jun : </li>
     <li>로니 : </li>
-    <li>루이 : </li>
     <li>산토리 : </li>
     <li>케이 : </li>
   </ul>
