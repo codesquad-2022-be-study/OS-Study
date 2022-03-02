@@ -51,13 +51,13 @@
 <details>
   <summary>[4주차] 4. CPU 스케줄링</summary>
   <ul>
-    <li>Ader : </li>
-    <li>Dave : </li>
-    <li>Jay : </li>
-    <li>Jun : </li>
-    <li>로니 : </li>
-    <li>산토리 : </li>
-    <li>케이 : </li>
+    <li>Ader : https://velog.io/@ak2j38/운영체제-스터디-4.-CPU-스케줄링</li>
+    <li>Dave : https://phase-bow-938.notion.site/CPU-e77dec99a8484421ac4d38f614fb789d</li>
+    <li>Jay : https://jwkim96.tistory.com/231</li>
+    <li>Jun : https://cookie-tin-8ec.notion.site/CPU-2756a18a4e74470b94844a4327d10bb1</li>
+    <li>로니 : https://velog.io/@cmsskkk/04.-CPU-스케줄링</li>
+    <li>산토리 : https://velog.io/@seyoung755/운영체제-4주차-CPU-스케줄링</li>
+    <li>케이 : https://velog.io/@becolorful/운영체제-스터디-4주차-CPU-Scheduling</li>
   </ul>
 </details>
 
@@ -66,12 +66,12 @@
 <details>
   <summary>[5주차] 5. 병행 제어 I</summary>
   <ul>
-    <li>Ader : https://velog.io/@ak2j38/운영체제-스터디-4.-CPU-스케줄링</li>
-    <li>Dave : https://phase-bow-938.notion.site/CPU-e77dec99a8484421ac4d38f614fb789d</li>
-    <li>Jay : https://jwkim96.tistory.com/231</li>
-    <li>Jun : https://cookie-tin-8ec.notion.site/CPU-2756a18a4e74470b94844a4327d10bb1</li>
-    <li>로니 : https://velog.io/@cmsskkk/04.-CPU-스케줄링</li>
-    <li>산토리 : https://velog.io/@seyoung755/운영체제-4주차-CPU-스케줄링</li>
-    <li>케이 : https://velog.io/@becolorful/운영체제-스터디-4주차-CPU-Scheduling</li>
+    <li>Ader : </li>
+    <li>Dave : </li>
+    <li>Jay : </li>
+    <li>Jun : </li>
+    <li>로니 : </li>
+    <li>산토리 : </li>
+    <li>케이 : </li>
   </ul>
 </details>
