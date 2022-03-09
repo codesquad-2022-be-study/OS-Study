@@ -66,6 +66,21 @@
 <details>
   <summary>[5주차] 5. 병행 제어 I</summary>
   <ul>
+    <li>Ader : https://velog.io/@ak2j38/운영체제-스터디-5.-병행-제어</li>
+    <li>Dave : https://phase-bow-938.notion.site/I-f325b210118e4bba8db77f02ce2a0133</li>
+    <li>Jay : https://jwkim96.tistory.com/237</li>
+    <li>Jun : https://cookie-tin-8ec.notion.site/24475055596a4965abd30aa3b191778e</li>
+    <li>로니 : https://velog.io/@cmsskkk/05.-병행-제어-1</li>
+    <li>산토리 : https://velog.io/@seyoung755/운영체제-5주차-병행-제어-I</li>
+    <li>케이 : https://velog.io/@becolorful/운영체제-스터디-5주차-Process-Synchronization</li>
+  </ul>
+</details>
+
+---
+
+<details>
+  <summary>[6주차] 6. 병행 제어 II</summary>
+  <ul>
     <li>Ader : </li>
     <li>Dave : </li>
     <li>Jay : </li>
