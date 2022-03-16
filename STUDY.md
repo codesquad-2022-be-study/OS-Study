@@ -82,9 +82,12 @@
   <summary>[6주차] 6. 병행 제어 II</summary>
   <ul>
     <li>Ader : https://velog.io/@ak2j38/운영체제-스터디-6.-병행-제어</li>
-    <li>Dave(병행제어 II) : https://phase-bow-938.notion.site/II-7c2bcd94db104976b3bbdf1114d5a5a9</li>
-    <li>Dave(데드락) : https://phase-bow-938.notion.site/f25c6253e9ba4e298d0f37f8eb1686bb</li>
-    <li>Jay : </li>
+    <li>Dave</li>
+    <ul>
+      <li>병행제어 II : https://phase-bow-938.notion.site/II-7c2bcd94db104976b3bbdf1114d5a5a9</li>
+      <li>데드락 : https://phase-bow-938.notion.site/f25c6253e9ba4e298d0f37f8eb1686bb</li>
+    </ul>
+    <li>Jay : (준비중)</li>
     <li>Jun : https://cookie-tin-8ec.notion.site/ac848127caff4105bd9763a7433ad6a7</li>
     <li>로니 : https://velog.io/@cmsskkk/병행-제어-2</li>
     <li>산토리 : https://velog.io/@seyoung755/운영체제-6주차-병행-제어-II</li>
