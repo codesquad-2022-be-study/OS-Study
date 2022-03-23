@@ -100,6 +100,29 @@
 <details>
   <summary>[7주차] 7. 데드락 & 메모리관리 I</summary>
   <ul>
+    <li>Ader : https://velog.io/@ak2j38/운영체제-스터디-7.-데드락과-메모리관리</li>
+    <li>Dave</li>
+    <ul>
+      <li>데드락 : https://phase-bow-938.notion.site/f25c6253e9ba4e298d0f37f8eb1686bb</li>
+      <li>메모리 관리 I : https://phase-bow-938.notion.site/0b58b4d7bcff4c608a48862584f1f316</li>
+    </ul>
+    <li>Jay : https://jwkim96.tistory.com/243</li>
+    <li>Jun : https://cookie-tin-8ec.notion.site/be0606d929b94b86966e5499f02af13f</li>
+    <li>로니</li>
+    <ul>
+      <li>데드락 : https://velog.io/@cmsskkk/병행-제어-2</li>
+      <li>메모리 관리 I : https://velog.io/@cmsskkk/메모리-관리-2</li>
+    </ul>
+    <li>산토리 : https://velog.io/@seyoung755/운영체제-7주차-데드락-메모리관리-I</li>
+    <li>케이 : https://velog.io/@becolorful/운영체제-스터디-7주차-데드락-메모리-관리-1</li>
+  </ul>
+</details>
+
+---
+
+<details>
+  <summary>[8주차] 9. 메모리 관리 II && 10. 메모리 관리 III</summary>
+  <ul>
     <li>Ader : </li>
     <li>Dave : </li>
     <li>Jay : </li>
