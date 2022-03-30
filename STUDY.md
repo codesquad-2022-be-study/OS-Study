@@ -123,6 +123,45 @@
 <details>
   <summary>[8주차] 9. 메모리 관리 II && 10. 메모리 관리 III</summary>
   <ul>
+    <li>Ader : https://velog.io/@ak2j38/운영체제-스터디-8.-메모리관리</li>
+    <li>Dave : https://phase-bow-938.notion.site/0b58b4d7bcff4c608a48862584f1f316</li>
+    <li>Jay : https://jwkim96.tistory.com/247</li>
+    <li>Jun : https://cookie-tin-8ec.notion.site/1e4438d2d1534072ba61882b1603b0e5</li>
+    <li>로니 : https://velog.io/@cmsskkk/메모리-관리2</li>
+    <li>산토리 : https://velog.io/@seyoung755/운영체제-8주차-데드락-메모리관리-I</li>
+    <li>케이 : https://velog.io/@becolorful/운영체제-스터디-8주차-데드락-메모리-관리-2</li>
+  </ul>
+</details>
+
+<details>
+  <summary>[9주차] 11. 가상메모리</summary>
+  <ul>
+    <li>Ader : </li>
+    <li>Dave : </li>
+    <li>Jay : </li>
+    <li>Jun : </li>
+    <li>로니 : </li>
+    <li>산토리 : </li>
+    <li>케이 : </li>
+  </ul>
+</details>
+
+<details>
+  <summary>[10주차] 12. 파일시스템</summary>
+  <ul>
+    <li>Ader : </li>
+    <li>Dave : </li>
+    <li>Jay : </li>
+    <li>Jun : </li>
+    <li>로니 : </li>
+    <li>산토리 : </li>
+    <li>케이 : </li>
+  </ul>
+</details>
+
+<details>
+  <summary>[11주차] 13. 입출력 시스템</summary>
+  <ul>
     <li>Ader : </li>
     <li>Dave : </li>
     <li>Jay : </li>
