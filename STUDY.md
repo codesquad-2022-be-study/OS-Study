@@ -138,13 +138,13 @@
 <details>
   <summary>[9주차] 11. 가상메모리</summary>
   <ul>
-    <li>Ader : </li>
-    <li>Dave : </li>
-    <li>Jay : </li>
-    <li>Jun : </li>
-    <li>로니 : </li>
-    <li>산토리 : </li>
-    <li>케이 : </li>
+    <li>Ader : https://velog.io/@ak2j38/운영체제-스터디-9.-가상메모리</li>
+    <li>Dave : https://www.notion.so/fe0c5e05392c45bb91f839faff169b1e</li>
+    <li>Jay : https://jwkim96.tistory.com/249</li>
+    <li>Jun : https://knowing-lemon-7bd.notion.site/7a7ac62d2c4144ca9c0ff998477b409f</li>
+    <li>로니 : https://velog.io/@cmsskkk/가상메모리</li>
+    <li>산토리 : https://velog.io/@seyoung755/운영체제-9주차</li>
+    <li>케이 : https://velog.io/@becolorful/운영체제-스터디-9주차-가상-메모리</li>
   </ul>
 </details>
 
