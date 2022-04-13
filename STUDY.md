@@ -153,13 +153,13 @@
 <details>
   <summary>[10주차] 12. 파일시스템</summary>
   <ul>
-    <li>Ader : </li>
+    <li>Ader : https://velog.io/@ak2j38/운영체제-스터디-10.-파일시스템</li>
     <li>Dave : </li>
-    <li>Jay : </li>
-    <li>Jun : </li>
-    <li>로니 : </li>
-    <li>산토리 : </li>
-    <li>케이 : </li>
+    <li>Jay : https://jwkim96.tistory.com/250</li>
+    <li>Jun : https://knowing-lemon-7bd.notion.site/e5f9fd0922c94ffe9aec1086a897d84b</li>
+    <li>로니 : https://velog.io/@cmsskkk/파일-시스템</li>
+    <li>산토리 : https://velog.io/@seyoung755/운영체제-10주차-파일-시스템</li>
+    <li>케이 : https://velog.io/@becolorful/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EC%8A%A4%ED%84%B0%EB%94%94-10%EC%A3%BC%EC%B0%A8-%ED%8C%8C%EC%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C</li>
   </ul>
 </details>
 
