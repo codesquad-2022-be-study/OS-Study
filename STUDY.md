@@ -168,12 +168,17 @@
 <details>
   <summary>[11주차] 13. 입출력 시스템</summary>
   <ul>
-    <li>Ader : </li>
-    <li>Dave : </li>
-    <li>Jay : </li>
-    <li>Jun : </li>
-    <li>로니 : </li>
-    <li>산토리 : </li>
-    <li>케이 : </li>
+    <li>Ader : https://velog.io/@ak2j38/운영체제-스터디-11.-입출력-시스템</li>
+    <li>Dave
+      <ul>
+        <li>입출력시스템1 : https://phase-bow-938.notion.site/6ad257e242804e4ab5b3cdd8d6bd3acd</li>
+        <li>입출력시스템2 : https://phase-bow-938.notion.site/Ext-91bf7f1417ed4c7183ee22548f4f8870</li>
+      </ul>
+    </li>
+    <li>Jay : https://jwkim96.tistory.com/250</li>
+    <li>Jun : https://www.notion.so/2a3e1e8cfb4b4d59a717265e53fefca1</li>
+    <li>로니 : https://velog.io/@cmsskkk/%EC%9E%85%EC%B6%9C%EB%A0%A5-%EC%8B%9C%EC%8A%A4%ED%85%9C</li>
+    <li>산토리 : https://velog.io/@seyoung755/운영체제-11주차-입출력-시스템</li>
+    <li>케이 : https://velog.io/@becolorful/운영체제-스터디-11주차-입출력시스템</li>
   </ul>
 </details>
