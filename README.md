@@ -2,9 +2,9 @@
 
 ## 공부내용 공유장소
 
-- 운영체제 스터디 링크 : https://github.com/codesquad-2022-be-study/OS-Study/milestone/1
-- 주차별 학습정리 모음 : https://github.com/codesquad-2022-be-study/OS-Study/blob/main/STUDY.md
-- 발표자료 모음 : https://github.com/codesquad-2022-be-study/OS-Study/tree/main/발표자료
+- 운영체제 스터디 링크 : [https://github.com/codesquad-2022-be-study/OS-Study/milestone/1](https://github.com/codesquad-2022-be-study/OS-Study/milestone/1)
+- 주차별 학습정리 모음 : [https://github.com/codesquad-2022-be-study/OS-Study/blob/main/STUDY.md](https://github.com/codesquad-2022-be-study/OS-Study/blob/main/STUDY.md)
+- 발표자료 모음 : [https://github.com/codesquad-2022-be-study/OS-Study/tree/main/발표자료](https://github.com/codesquad-2022-be-study/OS-Study/tree/main/발표자료)
 
 ## 참여자
 
